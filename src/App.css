@@ -1,0 +1,10 @@
+.container_name{
+  font-size: 22px;
+  font-weight: 700;
+  color: darkred;
+}
+
+.span__main{
+  margin-left: 40px;
+  font-size: 18;
+}
